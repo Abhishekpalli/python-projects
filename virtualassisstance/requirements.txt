@@ -1,0 +1,9 @@
+pyaudio
+pyttsx3
+SpeechRecognition
+wikipedia
+spotipy
+pywhatkit
+spotipy.oauth2 import SpotifyOAuth
+selenium import webdriver
+selenium.webdriver.common.by import By
